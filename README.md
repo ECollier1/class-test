@@ -1,2 +1,2 @@
 # class-test
-testing
+testing for class
