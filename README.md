@@ -1,2 +1,2 @@
 # class-test
-testing for class
+testing for class from vim
